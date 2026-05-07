@@ -16,7 +16,7 @@ To connect with the speakers, you can find them on LinkedIn and GitHub:
 
 ### Albert-Jan Schot
 
-- [LinkedIn](https://www.linkedin.com/in/albertjanschot/)
+- [LinkedIn](https://aka.ms/appie)
 - [GitHub](https://github.com/appieschot)
 
 ### Daniel Laskewitz
