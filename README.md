@@ -4,7 +4,7 @@
 
 ## 🤖 Copilot Studio Kit
 
-- [Copilot Studio Kit](https://aka.ms/copilot-studio-kit)
+- [Copilot Studio Kit](https://aka.ms/copilotstudiokit)
 
 ## 📦 Inventory Report
 
